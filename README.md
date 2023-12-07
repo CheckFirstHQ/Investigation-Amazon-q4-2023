@@ -8,4 +8,4 @@ How Amazon's Algorithms Undermine Plurality of Views, Amplify Disinformation, an
 
 ## Credits
 
-© CheckFirst, A IForensics - 2023
+© CheckFirst, AI Forensics - 2023
